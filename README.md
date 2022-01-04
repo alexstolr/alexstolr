@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+💬 Talk to me about blockchain
+📫 Reach me at: alexstolr@gmail.com
+
+Read my [article](https://medium.com/@alexstolr/identifying-ethereum-address-owners-using-testnet-faucet-mechanisms-947c866584ff) about about how you can identify Ethereum address owners.
+
 <!--
 **alexstolr/alexstolr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
